@@ -13,3 +13,4 @@ nbproject/Package-*.bash
 build/
 dist/
 debug/
+.DS_Store
